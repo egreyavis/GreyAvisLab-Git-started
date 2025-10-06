@@ -11,3 +11,5 @@ https://tbenthompson.com/post/share_your_code/ and https://medium.com/data-scien
 
 # Tips for witing shareable code
 https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R.html
+
+# ERIN'S IN 2025-10-06
