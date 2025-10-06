@@ -9,5 +9,5 @@ Congratulations, you are sharing code now!
 # Why you should share your code even if its not "good"
 https://tbenthompson.com/post/share_your_code/ and https://medium.com/data-science/how-and-why-to-share-scientific-code-64fbd385a67
 
-# Tips for Writing shareable code
+# Tips for witing shareable code
 https://swcarpentry.github.io/r-novice-inflammation/06-best-practices-R.html
